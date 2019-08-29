@@ -1,7 +1,7 @@
 # Grocery-List-Manager
 
-##ng serve --port 6200
-##Each added task can be displayed in the webpage.
+## ng serve --port 6200
+## Each added task can be displayed in the webpage.
 
 ##
 
